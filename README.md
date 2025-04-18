@@ -149,8 +149,10 @@ This project was created as part of a final year/semester academic requirement.
 
 ## 🧑‍💻 Author
 
-- **Your Name:** [Your GitHub](https://github.com/Augstee)
+- [Augustine](https://github.com/Augstee) 
+- [Anusha Reddy](https://github.com/AnushaReddy0705) 
 - **Email:** <augustinepc666@gmail.com>
+- **Email:** <>
 
 ---
 
