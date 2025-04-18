@@ -105,11 +105,6 @@ python server.py
 ```
 Visit: `http://localhost:5000`
 
-#### Streamlit Version (Recommended for UI):
-```bash
-streamlit run app.py
-```
-Visit: Localhost link provided by Streamlit (e.g., `http://localhost:8501`)
 
 ---
 
@@ -155,7 +150,7 @@ This project was created as part of a final year/semester academic requirement.
 ## 🧑‍💻 Author
 
 - **Your Name:** [Your GitHub](https://github.com/Augstee)
-- **Email:** augustinepc666@gmail.com
+- **Email:** <augustinepc666@gmail.com>
 
 ---
 
